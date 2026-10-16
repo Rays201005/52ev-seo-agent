@@ -1,0 +1,4 @@
+anthropic>=1.15,<2
+google-auth>=2.30,<3
+requests>=2.31,<3
+PyYAML>=6,<7
